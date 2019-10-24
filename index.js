@@ -59,6 +59,6 @@ function install(packageName, cwd, opts = {}) {
 }
 
 module.exports = async function (...args) {
-  // TODO: Promise ¶ÓÁÐ
+  // TODO: Promise é˜Ÿåˆ—
   await install(...args);
 }
