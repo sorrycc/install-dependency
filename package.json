@@ -1,6 +1,6 @@
 {
   "name": "install-dependency",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.0",
   "description": "Install dependency with any npm clients.",
   "main": "index.js",
   "homepage": "https://github.com/sorrycc/install-dependency",
